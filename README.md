@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Intellij" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/intellij-idea.png" />
-<img align="left" alt="Python" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/python.png" />]
+<img align="left" alt="Python" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/python.png" />
 <img align="left" alt="Java" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/java.png" />
 <img align="left" alt="Sublime Text 3" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/sublime.png" />
 <img align="left" alt="MySQL" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/mysql.png" />
