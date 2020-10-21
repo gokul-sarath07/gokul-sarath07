@@ -19,7 +19,6 @@
 
 [<img align="left" alt="Intellij" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/intellij-idea.png" />]
 [<img align="left" alt="Python" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/python.png" />]
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" alt="Java" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/java.png" />]
 [<img align="left" alt="Sublime Text 3" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/sublime.png" />]
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/gokul-sarath07/gokul-sarath07/blob/main/icon-pack/mysql.png" />]
@@ -31,6 +30,9 @@
 
 <img align="left" alt="Gokul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gokul-sarath07&show_icons=true&theme=vue&hide_border=true" />
 <br />
+
+<img align="left" alt="Gokul's Github Stats" src="https://github-readme-stats-puce-omega.vercel.app/api?username=gokul-sarath07&show_icons=true&theme=vue&hide_border=true" />
+
 <img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sarath07&layout=compact&show_icons=true&theme=vue&hide_border=true" />
 
 
