@@ -35,7 +35,7 @@
 
 ---
 
-<img align="center" alt="Gokul's Github Stats" src="https://github-readme-stats-puce-omega.vercel.app/api?username=gokul-sarath07&show_icons=true&theme=vue&hide_border=true" />
+<img align="left" alt="Gokul's Github Stats" src="https://github-readme-stats-puce-omega.vercel.app/api?username=gokul-sarath07&show_icons=true&theme=vue&hide_border=true" />
 <img align="center" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sarath07&layout=compact&show_icons=true&theme=vue&hide_border=true" />
 
 
