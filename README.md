@@ -28,7 +28,7 @@
 <br />
 <br />
 
-<img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sarath07&layout=compact" />
+<img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sarath07&layout=compact&show_icons=true&hide_border=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/gokul-sarath-b25a66174/
