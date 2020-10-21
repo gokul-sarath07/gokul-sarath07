@@ -23,7 +23,7 @@
 
 ---
 
-<img align="left" alt="Gokul Sarath Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sarath07&show_icons=true&hide_border=true" />
+<img align="left" alt="Gokul Sarath Github Stats" src="https://github-readme-stats.vercel.app/api?username=gokul-sarath07&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/gokul-sarath-b25a66174/
 [instagram]: https://www.instagram.com/gokul_sarath07/
