@@ -25,7 +25,8 @@
 
 <img align="left" alt="Gokul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gokul-sarath07&show_icons=true&hide_border=true" />
 
----
+<br />
+
 <img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sarath07&langs_count=8" />
 
 
