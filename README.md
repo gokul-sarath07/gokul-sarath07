@@ -2,7 +2,7 @@
 
 ## I'm a Crio Launch Student Developer (2020)
 
-- 📃 Checkout my [Portfolio]
+- 📃 Feel free to look through my [Portfolio]
 - 🌱 I’m currently learning more on Java and MySQL.
 - 🤔 Currently looking for a job.
 - ⚡ Fun fact: I like to meditate.
