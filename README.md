@@ -34,10 +34,10 @@
 <br />
 
 ---
-<!-- GitHub-Stats-Update:START -->
+
 <img align="left" alt="Gokul's Github Stats" src="https://github-readme-stats-puce-omega.vercel.app/api?username=gokul-sarath07&show_icons=true&theme=vue&hide_border=true" />
-<img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sarath07&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-<!-- GitHub-Stats-Update:END -->
+| <img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sarath07&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+
 
 [linkedin]: https://www.linkedin.com/in/gokul-sarath-b25a66174/
 [instagram]: https://www.instagram.com/gokul_sarath07/
