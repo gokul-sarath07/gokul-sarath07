@@ -8,7 +8,7 @@
 
 ### Spotify Now Playing 🎧
 
-[<img src="https://spotify-player-roan.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />]
+<img src="https://spotify-player-roan.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
 
 ### Connect with me:
 
