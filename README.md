@@ -41,5 +41,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/gokul-sarath-b25a66174/
-[instagram]: https://www.instagram.com/gokul_sarath05/
+[instagram]: https://www.instagram.com/gokulsarath05/
 [Portfolio]: https://criodo.github.io/Crio-Launch-Feb-2020-gokul510-s/
