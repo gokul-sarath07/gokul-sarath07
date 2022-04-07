@@ -3,7 +3,7 @@
 ## I'm a Crio Launch Student Developer (2020)
 
 - 📃 Feel free to look through my [Portfolio]
-- 🌱 I’m currently learning more on Java and Spring.
+- 🌱 I’m currently learning more on Angular.
 - 🏢 Working at UST Global as a Software Developer.
 - ⚡ Fun fact: I like to meditate.
 
