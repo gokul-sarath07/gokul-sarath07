@@ -7,9 +7,7 @@
 - 🏢 Working at Equifax as a Backend Software Developer.
 - ⚡ Fun fact: I like to meditate.
 
-### Spotify Now Playing 🎧
-
-<img src="https://spotify-player-roan.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2kg0u3p7p9d6ooqjv26gmigwe&count=1&unique=true)
 
 ### Connect with me:
 
@@ -38,9 +36,9 @@
 
 ---
 
-<img align="left" alt="Gokul's Github Stats" src="https://github-readme-stats-puce-omega.vercel.app/api?username=gokul-sarath07&show_icons=true&theme=vue&hide_border=true" />
-<img align="left" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sarath07&layout=compact&show_icons=true&theme=vue&hide_border=true" />
 
+| <img align="center" alt="Gokul's Github Stats" src="https://github-readme-stats-puce-omega.vercel.app/api?username=gokul-sarath07&show_icons=true&theme=tokyonight&show_border=true" /> | <img align="center" alt="Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sarath07&layout=compact&show_icons=true&theme=tokyonight&show_border=true&card_width=400px" /> |
+| ------------- | ------------- |
 
 
 [linkedin]: https://www.linkedin.com/in/gokul-sarath-b25a66174/
