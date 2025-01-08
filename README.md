@@ -1,10 +1,10 @@
 ### Hi there, I'm Gokul Sarath 👋
 
-## I'm a Crio Launch Student Developer (2020)
+## I'm a [Crio Certified Product Developer] (2025)
 
 - 📃 Feel free to look through my [Portfolio]
-- 🌱 I’m currently learning more on Angular.
-- 🏢 Working at UST Global as a Software Developer.
+- 🌱 I’m currently looking for a job.
+- 🏢 Working at Equifax as a Backend Software Developer.
 - ⚡ Fun fact: I like to meditate.
 
 ### Spotify Now Playing 🎧
@@ -45,4 +45,5 @@
 
 [linkedin]: https://www.linkedin.com/in/gokul-sarath-b25a66174/
 [instagram]: https://www.instagram.com/gokulsarath05/
-[Portfolio]: https://criodo.github.io/Crio-Launch-Feb-2020-gokul510-s/
+[Portfolio]: https://www.crio.do/learn/portfolio/gokulsarath05/
+[Crio Certified Product Developer]: https://www.crio.do/learn/certificate/gokulsarath05/TRACK_FELLOWSHIP_SD_BACKEND/
