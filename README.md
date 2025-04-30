@@ -7,14 +7,10 @@
 - 🏢 Working at Equifax as a Backend Software Developer.
 - ⚡ Fun fact: I like to meditate.
 
+<br />
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=2kg0u3p7p9d6ooqjv26gmigwe&count=1&unique=true)
 
-### Connect with me:
-
-[<img align="left" alt="GokulSarath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GokulSarath | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -41,7 +37,5 @@
 | ------------- | ------------- |
 
 
-[linkedin]: https://www.linkedin.com/in/gokul-sarath-b25a66174/
-[instagram]: https://www.instagram.com/gokulsarath05/
 [Portfolio]: https://www.crio.do/learn/portfolio/gokulsarath05/
 [Crio Certified Product Developer]: https://www.crio.do/learn/certificate/gokulsarath05/TRACK_FELLOWSHIP_SD_BACKEND/
